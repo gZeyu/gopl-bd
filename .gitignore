@@ -1,7 +1,14 @@
 # Windows:
 Thumbs.db
+
 ehthumbs.db
+
 Desktop.ini
+
 # Go
+
 debug
+
 *.exe
+
+*.gif

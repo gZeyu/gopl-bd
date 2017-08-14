@@ -2,7 +2,6 @@
 //用 color.RGBA{0xRR, 0xGG, 0xBB, 0xff} 来得到 #RRGGBB 这个色值，三个十六进制的字符串分
 //别代表红、绿、蓝像素。
 
-// +build ignore
 // Lissajous generates GIF animations of random Lissajous figures.
 package main
 
